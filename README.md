@@ -21,7 +21,7 @@ Step 4:
 Get P,L U matrix using lu().
 
 Step 5:
-End the program
+Print L and U matrix.
 
 ## Program:
 (i) To find the L and U matrix
