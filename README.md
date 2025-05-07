@@ -10,12 +10,16 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 Step 1:
  Import numpy libary using import statement.
+ 
 Step 2:
 From scipy package import lu().
+
 Step 3:
 Get input from user and pass it as an array.
+
 Step 4:
 Get P,L U matrix using lu().
+
 Step 5:
 End the program
 
